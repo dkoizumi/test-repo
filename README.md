@@ -1,2 +1,7 @@
 # test-repo
-tips to organizing research
+
+This is mt frist repo.
+
+- item1
+- item2
+
